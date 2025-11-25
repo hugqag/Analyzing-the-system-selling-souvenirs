@@ -69,7 +69,8 @@ Website hỗ trợ 3 nhóm người dùng chính:
 └── Tài liệu tham khảo
   
 ## Tài liệu đính kèm
-- [Báo cáo đầy đủ (file Word)](25_TRỊNH_QUANG_HƯNG_22D190070_PTTK%20web%20lưu%20niệm.docx)
+- [Báo cáo đầy đủ (file Word)](https://github.com/hugqag/Analyzing-the-system-selling-souvenirs/raw/refs/heads/main/25_TR%E1%BB%8ANH%20QUANG%20H%C6%AFNG_22D190070_PTTK%20web%20l%C6%B0u%20ni%E1%BB%87m.docx)
 
+  
 **Cảm ơn cô Nguyễn Thị Hội đã hướng dẫn tận tình!**  
 **Liên hệ:** hungtrinhquang2004@gmail.com
