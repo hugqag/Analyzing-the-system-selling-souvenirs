@@ -58,16 +58,6 @@ Website hỗ trợ 3 nhóm người dùng chính:
   <img src="https://raw.githubusercontent.com/hugqag/Analyzing-the-system-selling-souvenirs/refs/heads/main/IMG_20251125_105203.jpg" width="48%" alt="Quản lý sản phẩm" />
 </div>
 
-## Cấu trúc thư mục báo cáo
-
-25_TRỊNH QUANG HƯNG_22D190070_PTTK web lưu niệm.docx
-├── Lời mở đầu & Mục lục
-├── Đặc tả bài toán (yêu cầu chức năng & phi chức năng)
-├── Phân tích hệ thống (Use Case, Class, Sequence, Activity…)
-├── Thiết kế hệ thống (giao diện, CSDL, sơ đồ khối, mã giả)
-├── Kết luận & hướng phát triển
-└── Tài liệu tham khảo
-  
 ## Tài liệu đính kèm
 - [Báo cáo đầy đủ (file Word)](https://github.com/hugqag/Analyzing-the-system-selling-souvenirs/raw/refs/heads/main/25_TR%E1%BB%8ANH%20QUANG%20H%C6%AFNG_22D190070_PTTK%20web%20l%C6%B0u%20ni%E1%BB%87m.docx)
 
