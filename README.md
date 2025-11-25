@@ -52,7 +52,7 @@ Website hỗ trợ 3 nhóm người dùng chính:
 
 <div align="center">
   <img src="https://i.imgur.com/XuZ5vP8.png" width="48%" alt="Trang chủ" />
-  <img src="https://i.imgur.com/9kL2mN4.png" width="48%" alt="Quản lý sản phẩm" />
+  <img src="https://raw.githubusercontent.com/hugqag/Analyzing-the-system-selling-souvenirs/refs/heads/main/IMG_20251125_104935.jpg" width="48%" alt="Quản lý sản phẩm" />
   <br><br>
   <img src="https://i.imgur.com/fG7hJ2d.png" width="48%" alt="Giỏ hàng & thanh toán" />
   <img src="https://i.imgur.com/RtY8pQw.png" width="48%" alt="Quản lý đơn hàng" />
